@@ -1,0 +1,54 @@
+body {
+    background-color: #025464;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    font-family: 'Caprasimo', cursive;
+    font-size: 150px;
+    color: #E57C23;
+    margin-bottom: 20px;
+}
+
+.discription {
+    margin: 10px;
+    margin-bottom: 50px;
+    font-family: 'Caprasimo', cursive;
+    font-family: 'Lato', sans-serif;
+    color: #F8F1F1;
+}
+
+div {
+
+    width: 350px;
+    height: 100px;
+    border: 5px solid #E8AA42;
+    background-color: #E8AA42;
+
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+label {
+    font-family: 'Caprasimo', cursive;
+    font-family: 'Lato', sans-serif;
+    color: #025464;
+}
+
+#output {
+    font-family: 'Caprasimo', cursive;
+    font-family: 'Lato', sans-serif;
+    color: #F8F1F1;
+
+}
+
+.author {
+    font-family: 'Caprasimo', cursive;
+    font-family: 'Lato', sans-serif;
+    color: #F8F1F1;
+}
